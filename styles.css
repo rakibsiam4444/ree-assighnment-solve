@@ -318,6 +318,6 @@ font-family: Fira Sans;
     display: flex;
     justify-content: space-between 23px;
     gap: 23px;
-margin-left: 940px;
+align-items: center;
 margin-bottom: 49px;
 }
